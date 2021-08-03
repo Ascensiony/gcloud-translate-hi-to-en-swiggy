@@ -1,0 +1,1 @@
+# gcloud-translate-hi-to-en-swiggy
